@@ -103,4 +103,4 @@ galleryItems.forEach((item) => {
   gallery.appendChild(galleryItem);
 });
 
-3333333333333
+33333333333332
