@@ -82,10 +82,7 @@ galleryItems.forEach((item) => {
   );
 
   galleryLink.addEventListener("click", (event) => {
-    event.preventDefault();
-    const original_image = event.srcElement.getAttribute("data-source");
-    console.log("Image:", original_image);
-
+    event.preventDefault(); // Resim indirme işlemi durduruldu !!!!
     modalOriginal.show();
   });
 
