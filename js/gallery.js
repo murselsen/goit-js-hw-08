@@ -103,5 +103,6 @@ galleryItems.forEach((item) => {
   gallery.appendChild(galleryItem);
 });
 
-4545555hotyhjoştıyhjoştıyjhştıkjyhşlkkjknlkgmb ghn jmfghnkl fghlş nkfghklnjfg lşhknfglşhkjnfglşkhjnlşfgkhjnlşfghn
-otyhkn fghkngh
+
+
+
