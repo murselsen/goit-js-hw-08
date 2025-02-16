@@ -109,3 +109,13 @@ galleryItems.forEach((item) => {
 SVGFEColorMatrixElement
 SVGFEColorMatrixElement selam aselamaslk MediaStreamAudioDestinationNode
 
+
+
+$(lmaeal addEventListener
+  
+  empty lmaeal addEventListener
+
+  empty lmaeal addEventListener
+
+  empty l
+).empty();
