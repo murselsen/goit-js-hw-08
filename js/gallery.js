@@ -103,3 +103,4 @@ galleryItems.forEach((item) => {
   gallery.appendChild(galleryItem);
 });
 
+4545555
