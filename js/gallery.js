@@ -106,3 +106,4 @@ galleryItems.forEach((item) => {
 
 
 
+selam
